@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300&family=Roboto:wght@700&display=swap");
+
+.App {
+  font-family: "Indie Flower";
+  text-align: center;
+}
+
+input {
+  padding: 1.1rem;
+  width: 70%;
+  border-radius: 1.4rem;
+}
+
+body {
+  background-color: rgb(224, 26, 102);
+}
+
+h1 {
+  font-size: 8vh;
+  font-weight: bolder;
+}
+
+div {
+  font-size: 6vh;
+}
